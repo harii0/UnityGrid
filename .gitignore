@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Dependency directories (can be ignored if these are also in sub-directory .gitignores)
+# node_modules/
+
+# Optional: Ignore all build folders globally
+/build/
+/dist/
+
+# Environment files
+.env
